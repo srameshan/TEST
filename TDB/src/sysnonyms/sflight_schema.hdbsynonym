@@ -1,0 +1,236 @@
+{
+  "COVIDDATA": {
+    "target": {
+      "object": "COVIDDATA",
+      "schema": "SFLIGHT"
+    }
+  },
+  "COVIDDATA1": {
+    "target": {
+      "object": "COVIDDATA1",
+      "schema": "SFLIGHT"
+    }
+  },
+  "COVIDDATA2": {
+    "target": {
+      "object": "COVIDDATA2",
+      "schema": "SFLIGHT"
+    }
+  },
+  "CRMDATA": {
+    "target": {
+      "object": "CRMDATA",
+      "schema": "SFLIGHT"
+    }
+  },
+  "EMPLOYEEDATA": {
+    "target": {
+      "object": "EMPLOYEEDATA",
+      "schema": "SFLIGHT"
+    }
+  },
+  "QUESTIONS": {
+    "target": {
+      "object": "QUESTIONS",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SAIRPORT": {
+    "target": {
+      "object": "SAIRPORT",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SBOOK": {
+    "target": {
+      "object": "SBOOK",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SCARR": {
+    "target": {
+      "object": "SCARR",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SCUSTOM": {
+    "target": {
+      "object": "SCUSTOM",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SFLIGHT": {
+    "target": {
+      "object": "SFLIGHT",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SFLIMEAL": {
+    "target": {
+      "object": "SFLIMEAL",
+      "schema": "SFLIGHT"
+    }
+  },
+  "SPFLI": {
+    "target": {
+      "object": "SPFLI",
+      "schema": "SFLIGHT"
+    }
+  },
+  "STRAVELAG": {
+    "target": {
+      "object": "STRAVELAG",
+      "schema": "SFLIGHT"
+    }
+  },
+  "TARGETDB": {
+    "target": {
+      "object": "TARGETDB",
+      "schema": "SFLIGHT"
+    }
+  },
+  "T_SCARR": {
+    "target": {
+      "object": "T_SCARR",
+      "schema": "SFLIGHT"
+    }
+  },
+  "USER_MAPPING": {
+    "target": {
+      "object": "USER_MAPPING",
+      "schema": "SFLIGHT"
+    }
+  },
+  "US_COUNTIESDEMOSPATIAL": {
+    "target": {
+      "object": "US_COUNTIESDEMOSPATIAL",
+      "schema": "SFLIGHT"
+    }
+  },
+  "US_COUNTIESDEMOSPATIAL1": {
+    "target": {
+      "object": "US_COUNTIESDEMOSPATIAL1",
+      "schema": "SFLIGHT"
+    }
+  },
+  "US_COUNTIESFILTER": {
+    "target": {
+      "object": "US_COUNTIESFILTER",
+      "schema": "SFLIGHT"
+    }
+  },
+  "US_COUNTIES_LOC": {
+    "target": {
+      "object": "US_COUNTIES_LOC",
+      "schema": "SFLIGHT"
+    }
+  },
+  "US_COUNTIES_LOC_NEW": {
+    "target": {
+      "object": "US_COUNTIES_LOC_NEW",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_COUNTIESUPDATED": {
+    "target": {
+      "object": "HDB_COUNTIESUPDATED",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_LOCATION_TEST": {
+    "target": {
+      "object": "HDB_LOCATION_TEST",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_LOCATION_TEST_1": {
+    "target": {
+      "object": "HDB_LOCATION_TEST_1",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_LOCATION_TEST_1_1": {
+    "target": {
+      "object": "HDB_LOCATION_TEST_1_1",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_MyCustomHier_Level_1": {
+    "target": {
+      "object": "HDB_MyCustomHier_Level_1",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_MyCustomHier_Level_2": {
+    "target": {
+      "object": "HDB_MyCustomHier_Level_2",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_MyCustomHier_Level_3": {
+    "target": {
+      "object": "HDB_MyCustomHier_Level_3",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_QUESTIONS": {
+    "target": {
+      "object": "HDB_QUESTIONS",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_SFLIGHT": {
+    "target": {
+      "object": "HDB_SFLIGHT",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_USERINFO_SURVEY": {
+    "target": {
+      "object": "HDB_USERINFO_SURVEY",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_US_COUNTIES_LOCNEW": {
+    "target": {
+      "object": "HDB_US_COUNTIES_LOCNEW",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_US_COUNTIES_LOCNEW1": {
+    "target": {
+      "object": "HDB_US_COUNTIES_LOCNEW1",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_us_counties": {
+    "target": {
+      "object": "HDB_us_counties",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_us_countiesdemo": {
+    "target": {
+      "object": "HDB_us_countiesdemo",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_uscountiesspatial": {
+    "target": {
+      "object": "HDB_uscountiesspatial",
+      "schema": "SFLIGHT"
+    }
+  },
+  "HDB_zipcodesspatial": {
+    "target": {
+      "object": "HDB_zipcodesspatial",
+      "schema": "SFLIGHT"
+    }
+  },
+  "USERINFO": {
+    "target": {
+      "object": "USERINFO",
+      "schema": "SFLIGHT"
+    }
+  }
+}
